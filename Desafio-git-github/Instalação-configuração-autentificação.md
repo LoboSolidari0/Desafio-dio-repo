@@ -1,13 +1,13 @@
 # Instalação, Configuração e Autenficação
 
 ## Instalando o Git no Windows:
-Acesse < https://git-scm.com/download/win >;
+Para instalar o Programa Git em seu computador Acesse < https://git-scm.com/download/win >;
 
-- Faça o download do instalador e execute;
-- Aceite a licença e clique em “Next”, e siga configurando como desejar¹ e clicando em “Next”;
+- Em seguida realize o download do instalador e execute;
+- Aceite a licença e clique em “Next”, e prosiga configurando como desejar e clicando em “Next”;
 - Finalize clicando em “Install”, e “Finish”.
 
-¹Em "Select Components“, deixe as opções “Git Bash Here” e “Git GUI Here” marcadas.
+Em "Select Components“, deixe as opções “Git Bash Here” e “Git GUI Here” marcadas.
 
 ## Configurando o Git
 ### configurando o seu nome de usuario e email (globalmente):
@@ -23,7 +23,7 @@ Clonado arquivos de seu repertório remoto (GitHub)
 ```
 $ git clone URL
 ```
-*
+
 ## Autentificando via Token
 O Programa Git não depende da plataforma github para fazer o versionamento, porém o Github é uma ferramenta muito util para o armazenamento remoto e compartilhamento de dados.
 

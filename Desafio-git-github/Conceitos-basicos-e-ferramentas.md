@@ -1,7 +1,7 @@
 # Conceitos Basicos e Ferramentas
 
 ## Sistemas de controle 
-Os Sistemas de Controle de Versão (Version Control System - VCS), são softwares que controlam as versões de um arquivo ao longo do tempo.
+Os Sistemas de Controle de Versão são programas de softwares que ajudam a controlar as versões de um arquivo ao longo do tempo.
 | Sistema             | Descrição |
 |---------|-----------|
 | Centralizado (CVCS) |Um único servidor dispõe dos arquivos de controle de versão.
